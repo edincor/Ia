@@ -1,0 +1,196 @@
+{
+    "Url": "www.epdata.es/poblacion-ganada-perdida-comunidades-autonomas/bb1f6d28-1060-46d3-9ac1-3baa944f9732",
+    "Respuesta": {
+        "Id": "bb1f6d28-1060-46d3-9ac1-3baa944f9732",
+        "Url": "www.epdata.es/poblacion-ganada-perdida-comunidades-autonomas/bb1f6d28-1060-46d3-9ac1-3baa944f9732",
+        "Titulo": "Población ganada y perdida por comunidades autónomas en España",
+        "Subtitulo": "Variación 2020-2035",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "%",
+                    "SonDatosNumericos": true,
+                    "Fuente": "INE",
+                    "Clasificacion": null,
+                    "Unidad": "%",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2035,
+							"id":935,
+                            "Periodo": "Año",
+                            "Parametro": "Andalucía",
+                            "Valor": 0.5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "Aragón",
+							"id":936,
+                            "Valor": -0.9,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "Asturias",
+							"id":951,
+                            "Valor": -10,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "Baleares",
+							"id":947,
+                            "Valor": 14.9,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "C. Valenciana",
+							"id":944,
+                            "Valor": 3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "Canarias",
+							"id":999,
+                            "Valor": 8.4,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "Cantabria",
+							"id":937,
+                            "Valor": -5.3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "Cataluña",
+							"id":940,
+                            "Valor": 5.4,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "Ceuta",
+							"id":941,
+                            "Valor": -3.9,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "CLM",
+							"id":939,
+                            "Valor": -3.3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "CyL",
+							"id":938,
+                            "Valor": -10,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "Extremadura ",
+							"id":945,
+                            "Valor": -8.3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "Galicia",
+							"id":946,
+                            "Valor": -6.6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "La Rioja",
+							"id":949,
+                            "Valor": -0.3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "Madrid",
+							"id":942,
+                            "Valor": 9.1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "Melilla",
+							"id":941,
+                            "Valor": 0.8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "Murcia",
+                            "Valor": 6.1,
+							"id":952,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "Navarra",
+							"id":943,
+                            "Valor": 4.5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2035,
+                            "Periodo": "Año",
+                            "Parametro": "País Vasco",
+							"id":950,
+                            "Valor": -1.7,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
